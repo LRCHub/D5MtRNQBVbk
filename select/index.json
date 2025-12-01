@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BLUE (WINTER Solo)",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-01T06:47:01.669853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BLUE (WINTER Solo)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/01_BLUE_(WINTER_Solo)_aespa.lrc"
+    }
+  ]
+}
